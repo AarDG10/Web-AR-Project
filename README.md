@@ -1,5 +1,5 @@
 # Web-AR-Project (Nursery E-commerce Platform with Virtual Green Space Optimizer)
- The lackof acomprehensiveanduser-friendlyplatformfor
+<br>The lackof acomprehensiveanduser-friendlyplatformfor
  purchasingplantsaplingsonlinecreatesdifficulties forplant
  enthusiaststoexploreadiverserangeofplantspecies.Existing
  platformsoftenlackplantcareinformationandfailtoprovide
@@ -10,7 +10,7 @@
  plantsaplings,caretipsandavirtualgreenspaceplanner.The
  platformaimstoenhancetheonlineshoppingexperienceforplant
  loversusingARTechnology,enablingthemtomakeinformed
- decisions.
+ decisions.<br>
 
 **Contributors:** <br>[Aarol D'Souza](https://github.com/AarDG10) <br> [Ananya Solanki](https://github.com/ananyasolanki1)
 <br> [Leander Braganza](https://github.com/Leebro10) <br>
