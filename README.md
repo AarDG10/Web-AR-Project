@@ -26,10 +26,4 @@
         </td>
         <td>Javascript</td>
     </tr>
-    <tr>
-        <td> 
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far-js-org.github.io%2FAR.js-Docs%2F&psig=AOvVaw0xzj3RHU4geV3A8MVRJxjK&ust=1695923765848000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiLjr-uy4EDFQAAAAAdAAAAABAE" width="40" height="40"> 
-        </td>
-        <td>AR.js</td>
-    </tr>
 </table>
