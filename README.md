@@ -27,4 +27,10 @@
         </td>
         <td>Javascript</td>
     </tr>
+    <tr>
+        <td> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/React%20Icon.png" width="40" height="40"> 
+        </td>
+        <td>React</td>
+    </tr>
 </table>
