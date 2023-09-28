@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td> 
-            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/React%20Icon.png" width="40" height="40"> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/React_Icon-removebg-preview.png" width="50" height="50"> 
         </td>
         <td>React</td>
     </tr>
