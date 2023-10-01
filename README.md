@@ -29,13 +29,13 @@
     </tr>
     <tr>
         <td> 
-            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/React_Icon-removebg-preview.png" width="60" height="50"> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/React_Icon-removebg-preview.png" width="40" height="40"> 
         </td>
         <td>React</td>
     </tr>
     <tr>
         <td> 
-            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/Ar-js_icon-removebg-preview.png" width="80" height="60"> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/Ar-js_icon-removebg-preview.png" width="40" height="40"> 
         </td>
         <td>AR.js</td>
     </tr>
