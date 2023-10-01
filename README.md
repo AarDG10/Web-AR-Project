@@ -33,4 +33,16 @@
         </td>
         <td>React</td>
     </tr>
+    <tr>
+        <td> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/Ar-js_icon-removebg-preview.png" width="60" height="50"> 
+        </td>
+        <td>AR.js</td>
+    </tr>
+    <tr>
+        <td> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/Ar-js_icon-removebg-preview.png" width="60" height="50"> 
+        </td>
+        <td>Git</td>
+    </tr>
 </table>
