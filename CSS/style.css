@@ -10,6 +10,7 @@
     --bgcolor: #50C878;
     --navtexcolor:#007FFF;
     --sec-color:#DCFFE3;
+    --dvert:#17B169;
 }
 
 h1{
@@ -137,6 +138,13 @@ body{
     border-radius: 6px;
 }
 
+#feature{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
 #feature .fe-box{
     width:180px;
     text-align:center;
@@ -149,4 +157,16 @@ body{
 
 #feature .fe-box:hover{
     box-shadow: 10px 10px 54px var(--sec-color);
+}
+
+#feature .fe-box img{
+    width:100%;
+    margin-bottom: 10px;
+}
+
+#feature .fe-box h6{
+    padding: 9px 8px 6px 8px;
+    line-height: 1;
+    border-radius: 4px;
+    color: var(--dvert);
 }
