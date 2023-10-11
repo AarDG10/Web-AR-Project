@@ -8,6 +8,7 @@
 
 :root{   /*root css created for code reusablitity and coding efficiency*/
     --bgcolor: #50C878;
+    --navtexcolor:#007FFF;
 }
 
 h1{
@@ -70,11 +71,37 @@ body{
 #navbar li{
     list-style: none;
     padding:0px 20px;
+    position: relative;
 }
 
 #navbar li a{
     text-decoration: none;
-     font-size:16px;
-     font-weight: 600;
-     color:black;   /*Text Color is Navbar*/
+    font-size:16px;
+    font-weight: 600;
+    color:black;   /*Text Color is Navbar*/
+    transition: 0.2s ease;
+}
+
+#navbar li a:hover,
+#navbar li a.active{
+    color: var(--navtexcolor);
+}
+
+#navbar li a.active::after,
+#navbar li a:hover::after{
+    content: "";
+    width:30%;
+    height:2px;
+    background-color: var(--navtexcolor);
+    position:absolute;
+    bottom: -4px;
+    left: 20px;
+}
+
+/*Home Page*/
+#hero{
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-position: top 25% right 0%;
 }
