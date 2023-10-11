@@ -248,3 +248,7 @@ body{
     font-size:15px;
     border-radius: 6px;
 }
+
+#hero1 h1{
+    color:var(--dvert);
+}
