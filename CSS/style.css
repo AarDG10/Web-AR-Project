@@ -11,6 +11,7 @@
     --navtexcolor:#007FFF;
     --sec-color:#DCFFE3;
     --dvert:#17B169;
+    --newsbg:#000080;
 }
 
 h1{
@@ -251,4 +252,53 @@ body{
 
 #hero1 h1{
     color:var(--dvert);
+}
+
+#banner3{
+    display:flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 80px;
+}
+
+#banner3 .banner-box{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    min-width: 30%;
+    height:  50vh;
+    background-size:cover;
+    background-position: center;
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+#banner3 .banner-box h2{
+    color: var(--sec-color);
+    font-weight: 900;
+    font-size:20px;
+}
+
+#news{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    align-items: center;
+    background-color: var(--newsbg);
+}
+
+#news .news-text h3{
+    color:var(--sec-color);
+    font-weight: 800;
+    font-size:20px;
+}
+
+#news .news-text p{
+    color:var(--sec-color);
+    font-weight: 600;
+    font-size:15px;
+}
+
+#news .form{
 }
