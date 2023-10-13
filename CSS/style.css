@@ -353,3 +353,17 @@ body{
 .col-install img{
     margin:4px;
 }
+
+.copyright p{
+    color: var(--sec-color);
+    font-weight: 600;
+    font-size:16px;
+    padding-top: 10px;
+}
+
+.copyright{
+    width: auto;
+    height:40px;
+    text-align: center;
+    background-color: black;
+}
