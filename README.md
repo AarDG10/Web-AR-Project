@@ -49,4 +49,10 @@ Live at: [FloralFusion](https://aardg10.github.io/Web-AR-Project/)<br><hr>
         </td>
         <td>Git</td>
     </tr>
+    <tr>
+        <td> 
+            <img src="https://github.com/AarDG10/Web-AR-Project/blob/main/Images/Figma.png" width="40" height="40"> 
+        </td>
+        <td>Figma</td>
+    </tr>
 </table>
