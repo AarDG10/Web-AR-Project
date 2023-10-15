@@ -67,7 +67,12 @@ body{
     position: sticky;
     top:0;
     left:0;
-    
+    height: 52px;
+}
+
+#header img{  /*w:180 h:40*/
+    width:180px;
+    height:40px;
 }
 
 #navbar{
