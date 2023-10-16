@@ -52,6 +52,9 @@ p{
 
 body{
     width:100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 /*The following css is for header section*/
@@ -376,6 +379,11 @@ body{
     height:50px;
     text-align: center;
     background-color: black;
+    left:0;
+    bottom: 0;
+    margin-bottom: 0px;
+    right:0px;
+    margin-top: auto;
 }
 
 /*Section Contains Media Queries*/
