@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - FloralFusion</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <style>
+        /* Set the background color to white and text color to black */
+        body {
+            background-color: #b2edc5; /* White background */
+            color: #000; /* Black text color */
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* Header styles */
+        #header {
+            background-color: #3fc773;
+            color: #fff;
+            padding: 20px;
+            width: 100%;
+                
+        }
+
+        .logo img {
+            max-width: 100px;
+        }
+
+        ul#navbar {
+            list-style: none;
+        }
+
+        ul#navbar li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        ul#navbar a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        /* About Us section styles */
+        #about {
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .about-box {
+            display: flex;
+            max-width: 800px; /* Set a maximum width for the box */
+            background-color: #f7f7f7; /* Light gray background */
+            padding: 20px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 15px 15px rgb(66, 210, 164);
+        }
+
+        .about-image {
+            max-width: 200px; /* Adjust the image size */
+            height: auto;
+            animation: slide-in 1s forwards; /* Slide-in animation */
+        }
+
+        .about-content {
+            flex: 1;
+            padding: 20px; /* Add some padding to the content */
+        }
+
+        @keyframes slide-in {
+            0% {
+                transform: translateX(-100%);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <section id="header">
+        <a href="index.html" ><img src="Images/Floralfusion-logo-removebg-preview (1).png"></a>
+        <ul id="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li class="active"><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="cart.html"><i class='bx bx-shopping-bag'></i></a></li>
+        </ul>
+    </section>
+    <br>
+    <br>
+    <div class="about-box">
+        <img class="about-image" src="Images/Plant-Items/plantnew.jpg" alt="Plant Image">
+        <div class="about-content">
+            <h2>About Us</h2>
+            <p>Welcome to FloralFusion, your one-stop destination for a wide variety of plants and gardening essentials. We are passionate about bringing nature to your doorstep and helping you create your very own green oasis. Our team is dedicated to providing high-quality products and expert guidance to plant enthusiasts and novices alike.</p>
+            <p>At FloralFusion, we believe in the power of greenery to transform spaces and improve lives. Whether you're looking for indoor plants to purify the air in your home or outdoor beauties to enhance your garden, we have a plant for every occasion.</p>
+            <p>Our commitment to sustainability drives us to offer eco-friendly products and promote responsible gardening practices. We aim to make your shopping experience as delightful as watching your plants thrive. Explore our store, discover the perfect additions to your plant collection, and embark on a journey of green living with us.</p>
+        </div>
+    </div>
+
+    <script src="JS/script.js"></script>
+</body>
+</html>
