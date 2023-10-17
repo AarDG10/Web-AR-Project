@@ -98,7 +98,7 @@ body{
     text-decoration: none;
     font-size:16px;
     font-weight: 600;
-    color:black;   /*Text Color is Navbar*/
+    color: var(--sec-color);   /*Text Color is Navbar*/
     transition: 0.2s ease;
 }
 
