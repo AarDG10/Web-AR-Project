@@ -1,6 +1,8 @@
 # Web-AR-Project (Nursery E-commerce Platform with Virtual Green Space Optimizer)
 <br>The lack of a comprehensive and user-friendly platform for purchasing plant saplings online creates difficulties for plant enthusiasts to explore a diverse range of plant species. Existing platforms often lack plant care information and fail to provide users with an interactive way to visualize how the plants would look in their chosen environment. Therefore, the objective of this project is to address these challenges and develop an E-commerce website for an Online Nursery Store that offers a wide selection of plant saplings, care tips and a virtual green space planner. The platform aims to enhance the online shopping experience for plant lovers using AR Technology, enabling them to make informed decisions.<br> <hr>
 
+## Note: This is a Static Rendition of test-1-floral Repo ----> Project has been successfully migrated to MERN Stack.
+
 ## Website:
 Live at: [FloralFusion](https://aardg10.github.io/Web-AR-Project/)<br><hr>
 
